@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 26.5 55.7" style="enable-background:new 0 0 26.5 55.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1AB3C9;}
+	.st1{opacity:0.2;clip-path:url(#XMLID_341_);}
+	.st2{fill:#E94142;}
+</style>
+<g id="XMLID_92_">
+	<g id="XMLID_742_">
+		<path id="XMLID_727_" class="st0" d="M17.8,12.9H8.7C4.8,17,0,23.8,0,31.8C0,45,13.2,55.7,13.2,55.7S26.5,45,26.5,31.8
+			C26.5,23.8,21.6,17,17.8,12.9z"/>
+		<g id="XMLID_715_">
+			<defs>
+				<path id="XMLID_714_" d="M8.7,12.9C4.8,17,0,23.8,0,31.8C0,45,13.2,55.7,13.2,55.7S26.5,45,26.5,31.8c0-8-4.8-14.8-8.7-18.9H8.7
+					z"/>
+			</defs>
+			<clipPath id="XMLID_341_">
+				<use xlink:href="#XMLID_714_"  style="overflow:visible;"/>
+			</clipPath>
+			<g id="XMLID_718_" class="st1">
+				<g id="XMLID_725_">
+					
+						<rect id="XMLID_737_" x="-6" y="-1.4" transform="matrix(0.7129 0.7012 -0.7012 0.7129 22.1561 13.1945)" width="1.9" height="70"/>
+				</g>
+				<g id="XMLID_724_">
+					
+						<rect id="XMLID_736_" x="2.6" y="-1.4" transform="matrix(0.7132 0.701 -0.701 0.7132 24.5992 7.1967)" width="1.9" height="70"/>
+				</g>
+				<g id="XMLID_722_">
+					
+						<rect id="XMLID_734_" x="11.1" y="-1.4" transform="matrix(0.7132 0.701 -0.701 0.7132 27.0492 1.2087)" width="1.9" height="70"/>
+				</g>
+				<g id="XMLID_721_">
+					
+						<rect id="XMLID_733_" x="19.6" y="-1.4" transform="matrix(0.7132 0.701 -0.701 0.7132 29.4995 -4.7797)" width="1.9" height="70"/>
+				</g>
+				<g id="XMLID_719_">
+					
+						<rect id="XMLID_731_" x="28.2" y="-1.4" transform="matrix(0.7132 0.701 -0.701 0.7132 31.9497 -10.768)" width="1.9" height="70"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="XMLID_750_">
+		<g id="XMLID_739_">
+			<g id="XMLID_740_">
+				<path id="XMLID_741_" class="st2" d="M13.2,8.2c-2.3,0-4.1-1.8-4.1-4.1C9.1,1.8,11,0,13.2,0c2.3,0,4.1,1.8,4.1,4.1
+					C17.4,6.4,15.5,8.2,13.2,8.2z M13.2,1.9c-1.2,0-2.3,1-2.3,2.3c0,1.2,1,2.3,2.3,2.3s2.3-1,2.3-2.3C15.5,2.9,14.5,1.9,13.2,1.9z"
+					/>
+			</g>
+		</g>
+		<g id="XMLID_728_">
+			<polyline id="XMLID_730_" class="st2" points="18.9,14.1 18.9,7.8 7.6,7.8 7.6,14.1 			"/>
+		</g>
+	</g>
+</g>
+</svg>
