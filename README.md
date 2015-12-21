@@ -4,9 +4,9 @@ Our gift to you this holiday season: holiday icons from Bocoup!
 
 Open Source Design—it's what we do. The Bocoup Design team is open sourcing the graphic assets for the 2015 holiday season. The assets included are the following:
 
-[include image]
+![Bocoup 2015 winter icon set](https://static.bocoup.com/assets/img/holiday-icons.jpg)
 
-We hope you enjoy the download! If you like what we do, please stay in touch by signing up for our community newsletter: http://eepurl.com/lLda9.
+We hope you enjoy the download! If you like what we do, please stay in touch by [signing up for our community newsletter](http://eepurl.com/lLda9).
 
 ## About Bocoup: 
 
