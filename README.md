@@ -1,4 +1,4 @@
-# 2015-winter-icons
+# Winter Holiday icons
 
 Our gift to you this holiday season: holiday icons from Bocoup!
 
